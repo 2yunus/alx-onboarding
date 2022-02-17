@@ -1,0 +1,10 @@
+Step-1: Start
+Step-2: Accept three numbers from user (a, b, c)
+Step-3: If a > b then goto step 4 else goto step 5
+step-4: interchange a and b
+Step-5: If b > c then goto step 6 else goto step 7
+step-6: interchange b and c
+Step-7: If a > b then goto step 8 else goto step 9
+step-8: interchange a and b
+step-9: display a, b, c
+Step-11: Stop.
