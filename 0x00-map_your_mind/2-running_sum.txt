@@ -1,0 +1,7 @@
+
+STEP-1: Program starts.
+STEP-2: SET sum = 0.
+STEP-3: Read number N from user.
+STEP-4: While N is positive (N >= 0) add N to sum (sum += N) and go to step-3.
+STEP-5: if N is negative Display sum.
+STEP-6: Program stops.
